@@ -41,7 +41,7 @@ Video: [BUG-01-page-freezes-on-large-count.mp4](../evidence/BUG-01-page-freezes-
 
 ## Reproducibility
 
-Happened in the recorded test (see video).
+4 out of 4 attempts. The video shows one of them.
 
 ## Notes
 
