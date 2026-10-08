@@ -56,6 +56,8 @@ Other invalid inputs gave wrong results in the same way:
 
 Video: [BUG-03-invalid-dates-accepted.mp4](../evidence/BUG-03-invalid-dates-accepted.mp4)
 
+![February 30 becomes March 1 on every line (count 105)](../evidence/BUG-03-february-30-becomes-march-1.png)
+
 ## Reproducibility
 
 Every time I tried.
